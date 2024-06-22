@@ -68,20 +68,21 @@ Here are some of the apps available in the Umbrel App Store. For the complete li
 #### Bitcoin & Finance
 
 - [Bitcoin Node](https://apps.umbrel.com/app/bitcoin) — Run your personal node powered by Bitcoin Core
-- [Electrs](https://apps.umbrel.com/app/electrs) — A simple and efficient Electrum Server
-- [Mempool](https://apps.umbrel.com/app/mempool) — A self-hosted explorer for the Bitcoin community
 - [Bitfeed](https://apps.umbrel.com/app/bitfeed) — A beautiful mempool visualizer and block explorer
 - [BTCPay Server](https://apps.umbrel.com/app/btcpay-server) — Accept Bitcoin payments with zero fees & no 3rd party
-- [RoboSats](https://apps.umbrel.com/app/robosats) — Simple and Private Bitcoin P2P Exchange
-- [Jam](https://apps.umbrel.com/app/jam) — Your sats. Your privacy. Your profit.
-- [Samourai Server](https://apps.umbrel.com/app/samourai-server) — Your private backing server for Samourai Wallet
-- [Lightning Node](https://apps.umbrel.com/app/lightning) — Run your personal Lightning Network node
 - [Core Lightning](https://apps.umbrel.com/app/core-lightning) — Run your personal Core Lightning node
+- [Invoice Ninja](https://apps.umbrel.com/app/invoice-ninja) - We'll help with the invoicing
+- [Jam](https://apps.umbrel.com/app/jam) — Your sats. Your privacy. Your profit.
+- [Electrs](https://apps.umbrel.com/app/electrs) — A simple and efficient Electrum Server
+- [Lightning Node](https://apps.umbrel.com/app/lightning) — Run your personal Lightning Network node
 - [Lightning Terminal](https://apps.umbrel.com/app/lightning-terminal) — The easiest way to manage channel liquidity
 - [LNBits](https://apps.umbrel.com/app/lnbits) — Multi-user wallet management system
+- [Mempool](https://apps.umbrel.com/app/mempool) — A self-hosted explorer for the Bitcoin community
+- [Nostr Wallet Connect](https://apps.umbrel.com/app/alby-nostr-wallet-connect) — Give apps customized permissions to use your node
 - [Ride The Lightning](https://apps.umbrel.com/app/ride-the-lightning) — A powerful dashboard for the Lightning Network
-- [ThunderHub](https://apps.umbrel.com/app/thunderhub) — Take full control of your Lightning node
-- [Invoice Ninja](https://apps.umbrel.com/app/invoice-ninja) - We'll help with the invoicing
+- [RoboSats](https://apps.umbrel.com/app/robosats) — Simple and Private Bitcoin P2P Exchange
+- [Samourai Server](https://apps.umbrel.com/app/samourai-server) — Your private backing server for Samourai Wallet
+- [ThunderHub](https://apps.umbrel.com/app/thunderhub) — Take full control of your Lightning node- 
 
 #### AI
 
@@ -92,8 +93,8 @@ Here are some of the apps available in the Umbrel App Store. For the complete li
 #### Files & Productivity
 
 - [Calibre Web](https://apps.umbrel.com/app/calibre-web) — A clean web app for your eBooks
-- [Nextcloud](https://apps.umbrel.com/app/nextcloud) — Productivity platform that keeps you in control
 - [Immich](https://apps.umbrel.com/app/immich) - High performance photo and video backup solution
+- [Nextcloud](https://apps.umbrel.com/app/nextcloud) — Productivity platform that keeps you in control
 - [PhotoPrism](https://apps.umbrel.com/app/photoprism) — Self-host your photo and video library
 - [SyncThing](https://apps.umbrel.com/app/syncthing) — Peer-to-peer file synchronization between your devices
 - [Vaultwarden](https://apps.umbrel.com/app/vaultwarden) — Unofficial Bitwarden® compatible server
